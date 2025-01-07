@@ -1,0 +1,14 @@
+nav{
+    height: 4rem;
+    width: 100%;
+    display: flex;
+    box-shadow: 1px 1px 1px black;
+}
+
+
+style{
+      max-width: 980px; 
+      height: 351px; 
+      margin: 0px; 
+      width: 351px;
+}
